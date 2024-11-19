@@ -64,7 +64,8 @@ create one function that gives a row and combines that row into a string and ret
   - set line equal to str(item plus ',')
   - else
   - write line 
-  - 
+
+
 
 
 
